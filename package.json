@@ -13,7 +13,11 @@
   "dependencies": {
     "express": "~4.17.1"
   },
-  "keywords": [ "website", "site web", "platinum" ],
+  "keywords": [
+    "website",
+    "site web",
+    "platinum"
+  ],
   "author": "Clément Petignat <clement.petignat@gmail.com>",
   "license": "MIT",
   "bugs": {
