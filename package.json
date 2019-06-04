@@ -11,7 +11,8 @@
     "url": "https://github.com/peticle/platinum-website.git"
   },
   "dependencies": {
-    "express": "~4.17.1"
+    "express": "~4.17.1",
+    "node-sass": "~4.12.0"
   },
   "keywords": [
     "website",
